@@ -1,0 +1,7 @@
+.git
+docs
+burst
+burst.sh
+*.md
+target/
+
